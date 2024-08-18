@@ -1,9 +1,5 @@
 ## The Butter Cream
 
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/e80a33cd-8d22-499b-aefd-dd304598c044" width="240" height="240" alt="The Butter Cream">
-</div>
-
 Imagine uma ferramenta que cobre cada passo da jornada de um colaborador dentro de uma empresa, desde o primeiro dia até a última transição. 
 The Butter Cream é essa solução inovadora!
 
